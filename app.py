@@ -60,7 +60,7 @@ if st.button("Enviar Respostas", use_container_width=True):
             st.markdown("---")
             st.info("### 🎁 Acesso Liberado!")
             st.write("Como prometido, aqui está o seu link especial:")
-            st.link_button("👉 ACESSAR CONTEÚDO EXCLUSIVO", "https://www.google.com") 
+            st.link_button("👉 ACESSAR CONTEÚDO EXCLUSIVO", "https://gifft.me/pt/o/l/n217h8m5l49adhptzz0yckrn") 
             # Substitua o link acima pela URL desejada
             st.markdown("---")
         else:
