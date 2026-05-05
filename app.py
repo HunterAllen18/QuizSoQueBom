@@ -14,7 +14,7 @@ st.divider()
 # 2. Banco de Dados de Perguntas
 questoes = [
     {"p": "1. Segundo a bíblia, quem foi o primeiro assassino do mundo?", "o": ["José", "Moisés", "Caim", "Adão"], "c": "Caim"},
-    {"p": "2. "Salvar pessoas, caçar coisas, o negócio da família", Em que seriado essa frase foi dita'?", "o": ["Chiquititas", "Chapolin Colorado", "Naruto", "Supernatural"], "c": "Supernatural"},
+    {"p": "2. Salvar pessoas, caçar coisas, o negócio da família, Em que seriado essa frase foi dita'?", "o": ["Chiquititas", "Chapolin Colorado", "Naruto", "Supernatural"], "c": "Supernatural"},
     {"p": "3. Qual é a fórmula química da água?", "o": ["CO2", "H2O", "NaCl", "O2"], "c": "H2O"},
     {"p": "4. São células MAIS DIFERENCIADAS e com MENOR capacidade de reprodução:", "o": ["osteoclastos", "encéfalo", "neurônios", "hepatócitos"], "c": "neurônios"},
     {"p": "5. Na constução de um cinema, os arquitetos avaliaram a relação entre a quantidade de fileiras e a quantidade de cadeiras em cada fileira. O projeto inicial prevê uma sala para 304 pessoas. No caso de utilizarem 19 fileiras, o número de cadeiras por fileira será", "o": ["16", "8", "17", "13"], "c": "16"},
