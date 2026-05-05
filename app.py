@@ -4,7 +4,7 @@ import streamlit as st
 st.set_page_config(page_title="Desafio dos 100%", page_icon="🎯")
 
 # Estilização básica para o título
-st.title("🎯 O Desafio da Perfeição")
+st.title("🎯 O Desafio")
 st.markdown("""
     Responda corretamente às **10 perguntas**. 
     O botão com o link secreto só aparecerá se você não cometer **nenhum erro**.
